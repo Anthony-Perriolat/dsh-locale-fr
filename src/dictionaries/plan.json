@@ -1,0 +1,19 @@
+{
+  "chip.label": "Plan",
+  "preview.title": "Plan",
+  "preview.document": "Plan · Markdown",
+  "preview.action": "Ouvrir",
+  "preview.open": "Ouvrir le plan dans la barre latérale",
+  "preview.full": "Afficher le plan complet",
+  "preview.openNamed": "Ouvrir le plan : {title}",
+  "preview.loading": "Chargement du plan…",
+  "preview.failed": "Impossible de charger le plan",
+  "preview.invalidAddress": "Adresse de plan invalide",
+  "preview.historyUnavailable": "L’historique de la session est indisponible",
+  "preview.notFound": "Ce plan est introuvable",
+  "preview.unavailable": "L’aperçu du plan est indisponible",
+  "preview.expired": "Cet aperçu temporaire du plan a expiré. Rouvrez-le depuis la carte d’approbation en attente.",
+  "chip.on.aria": "Mode plan activé, appuyez pour désactiver",
+  "chip.on.title": "Mode plan activé — cliquez pour désactiver (/plan off)",
+  "chip.exitFailed": "Échec de la sortie du mode plan"
+}

@@ -1,0 +1,230 @@
+[
+  {
+    "namespace": "agent-team",
+    "file": "./dictionaries/agent-team.json"
+  },
+  {
+    "namespace": "approval",
+    "file": "./dictionaries/approval.json"
+  },
+  {
+    "namespace": "chat",
+    "file": "./dictionaries/chat.json"
+  },
+  {
+    "namespace": "command",
+    "file": "./dictionaries/command.json"
+  },
+  {
+    "namespace": "common",
+    "file": "./dictionaries/common.json"
+  },
+  {
+    "namespace": "conversation",
+    "file": "./dictionaries/conversation.json"
+  },
+  {
+    "namespace": "cordis",
+    "file": "./dictionaries/cordis.json"
+  },
+  {
+    "namespace": "deliverables",
+    "file": "./dictionaries/deliverables.json"
+  },
+  {
+    "namespace": "directory-browser",
+    "file": "./dictionaries/directory-browser.json"
+  },
+  {
+    "namespace": "documentHtml",
+    "file": "./dictionaries/document-html.json"
+  },
+  {
+    "namespace": "documentMarkdown",
+    "file": "./dictionaries/document-markdown.json"
+  },
+  {
+    "namespace": "feedback",
+    "file": "./dictionaries/feedback.json"
+  },
+  {
+    "namespace": "goal",
+    "file": "./dictionaries/goal.json"
+  },
+  {
+    "namespace": "job",
+    "file": "./dictionaries/job.json"
+  },
+  {
+    "namespace": "model",
+    "file": "./dictionaries/model.json"
+  },
+  {
+    "namespace": "open-in-app",
+    "file": "./dictionaries/open-in-app.json"
+  },
+  {
+    "namespace": "permission.access",
+    "file": "./dictionaries/permission-access.json"
+  },
+  {
+    "namespace": "plan",
+    "file": "./dictionaries/plan.json"
+  },
+  {
+    "namespace": "pluginManager",
+    "file": "./dictionaries/plugin-manager.json"
+  },
+  {
+    "namespace": "question",
+    "file": "./dictionaries/question.json"
+  },
+  {
+    "namespace": "reference",
+    "file": "./dictionaries/reference.json"
+  },
+  {
+    "namespace": "schedule.catalog",
+    "file": "./dictionaries/schedule-catalog.json"
+  },
+  {
+    "namespace": "schedule.manager",
+    "file": "./dictionaries/schedule-manager.json"
+  },
+  {
+    "namespace": "session-log-download",
+    "file": "./dictionaries/session-log-download.json"
+  },
+  {
+    "namespace": "settings",
+    "file": "./dictionaries/settings.json"
+  },
+  {
+    "namespace": "settings.account",
+    "file": "./dictionaries/settings-account.json"
+  },
+  {
+    "namespace": "settings.agentLoop",
+    "file": "./dictionaries/settings-agent-loop.json"
+  },
+  {
+    "namespace": "settings.agentPreset",
+    "file": "./dictionaries/settings-agent-preset.json"
+  },
+  {
+    "namespace": "settings.locale",
+    "file": "./dictionaries/settings-locale.json"
+  },
+  {
+    "namespace": "settings.models",
+    "file": "./dictionaries/settings-models.json"
+  },
+  {
+    "namespace": "settings.permission",
+    "file": "./dictionaries/settings-permission.json"
+  },
+  {
+    "namespace": "settings.pluginInventory",
+    "file": "./dictionaries/settings-plugin-inventory.json"
+  },
+  {
+    "namespace": "settings.plugins",
+    "file": "./dictionaries/settings-plugins.json"
+  },
+  {
+    "namespace": "settings.shell",
+    "file": "./dictionaries/settings-shell.json"
+  },
+  {
+    "namespace": "settings.subagent",
+    "file": "./dictionaries/settings-subagent.json"
+  },
+  {
+    "namespace": "settings.theme",
+    "file": "./dictionaries/settings-theme.json"
+  },
+  {
+    "namespace": "settings.webSearch",
+    "file": "./dictionaries/settings-web-search.json"
+  },
+  {
+    "namespace": "shortcuts",
+    "file": "./dictionaries/shortcuts.json"
+  },
+  {
+    "namespace": "shortcuts.layout",
+    "file": "./dictionaries/shortcuts-layout.json"
+  },
+  {
+    "namespace": "sidebar",
+    "file": "./dictionaries/sidebar.json"
+  },
+  {
+    "namespace": "sidebarBrowser",
+    "file": "./dictionaries/sidebar-browser.json"
+  },
+  {
+    "namespace": "sidebarCodePreview",
+    "file": "./dictionaries/sidebar-code-preview.json"
+  },
+  {
+    "namespace": "sidebarDocumentPreview",
+    "file": "./dictionaries/sidebar-document-preview.json"
+  },
+  {
+    "namespace": "sidebarExcel",
+    "file": "./dictionaries/sidebar-excel.json"
+  },
+  {
+    "namespace": "sidebarFiles",
+    "file": "./dictionaries/sidebar-files.json"
+  },
+  {
+    "namespace": "sidebarImage",
+    "file": "./dictionaries/sidebar-image.json"
+  },
+  {
+    "namespace": "sidebarOffice",
+    "file": "./dictionaries/sidebar-office.json"
+  },
+  {
+    "namespace": "sidebarPdf",
+    "file": "./dictionaries/sidebar-pdf.json"
+  },
+  {
+    "namespace": "sidebarRight",
+    "file": "./dictionaries/sidebar-right.json"
+  },
+  {
+    "namespace": "sidebarTerminal",
+    "file": "./dictionaries/sidebar-terminal.json"
+  },
+  {
+    "namespace": "skill",
+    "file": "./dictionaries/skill.json"
+  },
+  {
+    "namespace": "slash.menu",
+    "file": "./dictionaries/slash-menu.json"
+  },
+  {
+    "namespace": "subagent",
+    "file": "./dictionaries/subagent.json"
+  },
+  {
+    "namespace": "trajectory",
+    "file": "./dictionaries/trajectory.json"
+  },
+  {
+    "namespace": "voice-input",
+    "file": "./dictionaries/voice-input.json"
+  },
+  {
+    "namespace": "workflowRun",
+    "file": "./dictionaries/workflow-run.json"
+  },
+  {
+    "namespace": "workspace",
+    "file": "./dictionaries/workspace.json"
+  }
+]

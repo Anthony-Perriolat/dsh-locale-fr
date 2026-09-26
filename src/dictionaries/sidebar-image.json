@@ -1,0 +1,13 @@
+{
+  "zoomControls": "Commandes de zoom",
+  "zoomMenu": "Choisir le zoom",
+  "zoomOut": "Zoom arrière",
+  "zoomIn": "Zoom avant",
+  "zoomFitWidth": "Ajuster à la largeur",
+  "zoomValue": "{percent} %",
+  "title": "Image",
+  "preview": "Aperçu de l’image : {name}",
+  "loading": "Rendu du document…",
+  "failed": "Impossible d’afficher cette image.",
+  "unsupported": "L’aperçu de l’image nécessite le contenu complet du fichier."
+}

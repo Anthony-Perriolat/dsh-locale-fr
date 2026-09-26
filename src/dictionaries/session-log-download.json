@@ -1,0 +1,12 @@
+{
+  "header.more": "Plus d’actions",
+  "menu.download": "Télécharger le journal de session",
+  "menu.feedback": "Retour",
+  "dialog.preparingTitle": "Export de la Session en cours",
+  "dialog.preparingDescription": "Préparation d’un fichier ZIP contenant cette Session, ses sous-Sessions et ses pièces jointes.",
+  "dialog.successTitle": "Téléchargement de la Session lancé",
+  "dialog.successDescription": "Le navigateur télécharge le fichier ZIP de la Session.",
+  "dialog.errorTitle": "Échec de l’export de la Session",
+  "dialog.close": "Fermer",
+  "dialog.commandFailed": "Impossible de démarrer l’export de la Session."
+}

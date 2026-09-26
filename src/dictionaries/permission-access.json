@@ -1,0 +1,19 @@
+{
+  "mode": "Mode d’accès, actuel : {name}",
+  "close": "Fermer",
+  "preset.readOnly": "Lecture seule",
+  "preset.workspaceWrite": "Écriture dans l’espace de travail",
+  "preset.fullAccess": "Accès complet",
+  "confirm.title": "Activer l’accès complet ?",
+  "confirm.description": "L’accès complet réduit les étapes de confirmation et permet à l’agent d’effectuer directement plus d’actions, y compris des opérations sensibles, des modifications de fichiers ou des commandes externes. Ne l’utilisez que lorsque vous faites confiance à la tâche en cours.",
+  "confirm.acknowledge": "Je comprends les risques et je souhaite continuer",
+  "confirm.cancel": "Annuler",
+  "confirm.enable": "Activer l’accès complet",
+  "auto.label": "Auto review",
+  "auto.badge": "EXP",
+  "auto.description": "Exécution sans bac à sable, après un examen expérimental par le même modèle de chaque appel d’outil natif et de chaque appel interne PTC.",
+  "auto.confirm.title": "Activer Auto review (expérimental) ?",
+  "auto.confirm.description": "Auto review s’exécute sans bac à sable. Avant chaque appel d’outil natif et chaque appel interne PTC, le même modèle que l’agent en cours examine s’il faut l’autoriser ; vous approuvez ou refusez chaque appel qu’il rejette. Cette fonctionnalité est expérimentale, peut autoriser ou refuser à tort des actions et consomme des tokens supplémentaires.",
+  "auto.confirm.acknowledge": "Je comprends ces risques et je souhaite continuer",
+  "auto.confirm.enable": "Activer Auto review"
+}
